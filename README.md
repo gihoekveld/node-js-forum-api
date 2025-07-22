@@ -53,3 +53,32 @@ O domínio é o assunto ou a área de interesse do software. É o contexto em qu
 - Adicionar um novo anexo (create)
 - Remover o segundo anexo que tinha sido criado previamente (delete)
 - Editar um anexo existente (update)
+
+## Subdomínios
+
+- Core: O que dá dinheiro
+  - Entidades que são essenciais para o negócio.
+- Supporting: Dá suporte para o core funcionar
+  - Entidades que ajudam o core, mas não são essenciais.
+- Generic: Você precisa deles, mas não são tão importantes
+  - Entidades que são genéricas e podem ser reutilizadas em diferentes contextos.
+
+## Exemplos
+
+### Core
+
+- Compra
+- Catálogo
+- Pagamento
+- Entrega
+- Faturamento
+
+## Supporting
+
+- Estoque
+
+### Generic
+
+- Notificação ao cliente
+- Promoções
+- Chat
